@@ -1,2 +1,2 @@
-web: gunicorn blogcms.wsgi
+web: gunicorn summernote.wsgi
 
